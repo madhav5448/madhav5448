@@ -21,8 +21,7 @@ I'm Madhav Sharma, a dedicated Full  stack MERN developer with a passion for cra
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=madhav5448&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=madhav5448&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
